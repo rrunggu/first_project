@@ -78,7 +78,7 @@
 
 ​		                                                                            (부산)
 
-​                         (4) 영화 매출액과 백신 접종률 종합 산점도(서울)
+​                         (4) 영화 매출액과 백신 접종률 종합 산점도
 
 ​			![image](https://user-images.githubusercontent.com/98143525/156993864-3d8cd3ad-e6a4-40ec-9ef3-e7a8af7333f0.png)
 
