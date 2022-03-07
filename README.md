@@ -26,30 +26,24 @@
 
 ### 1. 데이터 수집
 
-<<<<<<< HEAD
-	 (1)  KOBIS 데이터 수집
-=======
- 	(1)  KOBIS 데이터 수집
->>>>>>> 2041a34fd43e4604336562d3182ce98dd6b9f9b3
+(1)  KOBIS 데이터 수집
 
-	- 데이터 명 : 지역별 영화 접유율
-	- 제공 형태 : EXCEL 파일
-	- 데이터 요약 : 지역별, 매출액, 관객수
-	- 특이 사항 : Selenium을 통한 데이터 수집 자동화
+- 데이터 명 : 지역별 영화 접유율
+- 제공 형태 : EXCEL 파일
+- 데이터 요약 : 지역별, 매출액, 관객수
+- 특이 사항 : Selenium을 통한 데이터 수집 자동화
 
 ​		![image](https://user-images.githubusercontent.com/98143525/156993442-cb90300b-d1e8-4580-b57d-aa6ff644f2fa.png) 
 
 
 
-<<<<<<< HEAD
-	  (2) 공공데이터 포털에서 오픈 API 활용
-=======
-​	(2) 공공데이터 포털에서 오픈 API 활용
->>>>>>> 2041a34fd43e4604336562d3182ce98dd6b9f9b3
 
-	- 데이터명 : 코로나 예방접종 통계 데이터 조회 서비스
-	- 제공 형태 : 오픈 API 형태
-	- 요약 : 지역명칭, 1차 및 2차 당일 통계, 누적통계
+​(2) 공공데이터 포털에서 오픈 API 활용
+
+
+- 데이터명 : 코로나 예방접종 통계 데이터 조회 서비스
+- 제공 형태 : 오픈 API 형태
+- 요약 : 지역명칭, 1차 및 2차 당일 통계, 누적통계
 
 ![image](https://user-images.githubusercontent.com/98143525/156993610-660dd1b7-1d0a-440d-80bb-a45af10cce32.png)
 
@@ -76,11 +70,10 @@
 
 ​			<img src="https://github.com/DaeGyeongYi/03.vaccine_movie_project/blob/main/picture/image-20210821153531255.png?raw=true" alt="image-20210821153531255.png" style="zoom:80%;" />
 
-<<<<<<< HEAD
-  (3) 백신 접종 전/후 거리두기에 따른 매출액 비교
-=======
-​                         (3) 백신 접종 전/후 거리두기에 따른 매출액 비교
->>>>>>> c417a8f6cf06604faad21fa5809006954a12175f
+
+
+​   (3) 백신 접종 전/후 거리두기에 따른 매출액 비교
+
 
 ​		![image](https://user-images.githubusercontent.com/98143525/156993820-5f6f2b82-6d8a-41db-87f8-04bb7ee674a1.png)
 
@@ -90,21 +83,19 @@
 
 ​		                                                                            
 
-<<<<<<< HEAD
-   (4) 영화 매출액과 백신 접종률 종합 산점도
-=======
-​                         (4) 영화 매출액과 백신 접종률 종합 산점도
->>>>>>> c417a8f6cf06604faad21fa5809006954a12175f
+
+​     (4) 영화 매출액과 백신 접종률 종합 산점도
+
 
 ​			![image](https://user-images.githubusercontent.com/98143525/156993864-3d8cd3ad-e6a4-40ec-9ef3-e7a8af7333f0.png)
 
-​																				서울	                                                                       
+​										  서울	                                                                       
 
 
 
 ​			![image](https://user-images.githubusercontent.com/98143525/156993916-9d90f66b-164d-4838-a35a-e1c5f2b39548.png)
 
-​                                                                                  부산 
+​                                                                                 부산 
 
 ​    (5) 상관계수 분석 및 시각화
 
