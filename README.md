@@ -26,22 +26,22 @@
 
 ### 1. 데이터 수집
 
-​		(1)  KOBIS 데이터 수집
+​ 	(1)  KOBIS 데이터 수집
 
-			- 데이터 명 : 지역별 영화 접유율
-			- 제공 형태 : EXCEL 파일
-			- 데이터 요약 : 지역별, 매출액, 관객수
-			- 특이 사항 : Selenium을 통한 데이터 수집 자동화
+	- 데이터 명 : 지역별 영화 접유율
+	- 제공 형태 : EXCEL 파일
+	- 데이터 요약 : 지역별, 매출액, 관객수
+	- 특이 사항 : Selenium을 통한 데이터 수집 자동화
 
 ​		![image](https://user-images.githubusercontent.com/98143525/156993442-cb90300b-d1e8-4580-b57d-aa6ff644f2fa.png) 
 
 
 
-​		(2) 공공데이터 포털에서 오픈 API 활용
+​	(2) 공공데이터 포털에서 오픈 API 활용
 
-			- 데이터명 : 코로나 예방접종 통계 데이터 조회 서비스
-			- 제공 형태 : 오픈 API 형태
-			- 요약 : 지역명칭, 1차 및 2차 당일 통계, 누적통계
+	- 데이터명 : 코로나 예방접종 통계 데이터 조회 서비스
+	- 제공 형태 : 오픈 API 형태
+	- 요약 : 지역명칭, 1차 및 2차 당일 통계, 누적통계
 
 ![image](https://user-images.githubusercontent.com/98143525/156993610-660dd1b7-1d0a-440d-80bb-a45af10cce32.png)
 
@@ -64,11 +64,11 @@
 
    
 
-   	(2) 서울 및 부산 2019년 대비 코로나 이후 매출액 비율
+   (2) 서울 및 부산 2019년 대비 코로나 이후 매출액 비율
 
 ​			<img src="https://github.com/DaeGyeongYi/03.vaccine_movie_project/blob/main/picture/image-20210821153531255.png?raw=true" alt="image-20210821153531255.png" style="zoom:80%;" />
 
-​		(3) 백신 접종 전/후 거리두기에 따른 매출액 비교
+​  (3) 백신 접종 전/후 거리두기에 따른 매출액 비교
 
 ​		![image](https://user-images.githubusercontent.com/98143525/156993820-5f6f2b82-6d8a-41db-87f8-04bb7ee674a1.png)
 
@@ -78,7 +78,7 @@
 
 ​		                                                                            (부산)
 
-​		(5) 영화 매출액과 백신 접종률 종합 산점도(서울)
+​   (4) 영화 매출액과 백신 접종률 종합 산점도(서울)
 
 ​			![image](https://user-images.githubusercontent.com/98143525/156993864-3d8cd3ad-e6a4-40ec-9ef3-e7a8af7333f0.png)
 
@@ -90,7 +90,7 @@
 
 ​                                                                                (부산)
 
-​		(6) 상관계수 분석 및 시각화
+​    (5) 상관계수 분석 및 시각화
 
 ![image](https://user-images.githubusercontent.com/98143525/156993963-84b0f8de-c587-4fe7-91d3-ac915e28338f.png)
 
