@@ -76,7 +76,11 @@
 
 ​			<img src="https://github.com/DaeGyeongYi/03.vaccine_movie_project/blob/main/picture/image-20210821153531255.png?raw=true" alt="image-20210821153531255.png" style="zoom:80%;" />
 
+<<<<<<< HEAD
   (3) 백신 접종 전/후 거리두기에 따른 매출액 비교
+=======
+​                         (3) 백신 접종 전/후 거리두기에 따른 매출액 비교
+>>>>>>> c417a8f6cf06604faad21fa5809006954a12175f
 
 ​		![image](https://user-images.githubusercontent.com/98143525/156993820-5f6f2b82-6d8a-41db-87f8-04bb7ee674a1.png)
 
@@ -86,7 +90,11 @@
 
 ​		                                                                            
 
+<<<<<<< HEAD
    (4) 영화 매출액과 백신 접종률 종합 산점도
+=======
+​                         (4) 영화 매출액과 백신 접종률 종합 산점도
+>>>>>>> c417a8f6cf06604faad21fa5809006954a12175f
 
 ​			![image](https://user-images.githubusercontent.com/98143525/156993864-3d8cd3ad-e6a4-40ec-9ef3-e7a8af7333f0.png)
 
@@ -94,7 +102,7 @@
 
 
 
-​			- 부산![image](https://user-images.githubusercontent.com/98143525/156993916-9d90f66b-164d-4838-a35a-e1c5f2b39548.png)
+​			![image](https://user-images.githubusercontent.com/98143525/156993916-9d90f66b-164d-4838-a35a-e1c5f2b39548.png)
 
 ​                                                                                  부산 
 
